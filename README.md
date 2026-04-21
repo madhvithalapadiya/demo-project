@@ -33,7 +33,7 @@ navbar-project/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/navbar-project.git
+   git clone https://github.com/madhvithalapadiya/navbar-project.git
    ```
 2. Navigate into the project folder:
 
